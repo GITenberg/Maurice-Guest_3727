@@ -1,0 +1,37 @@
+_repo: Maurice-Guest_3727
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richardson, Henry Handel
+    aliases:
+    - Richardson, Ethel Florence Lindesay
+    - Robertson, Ethel Florence Lindesay Richardson
+    - Richardson, Ethel Henrietta
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '1281'
+    url: http://www.gutenberg.org/2009/agents/1281
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Handel_Richardson
+description: Henry Handel Richardson's debut published in London in 1908 is set in
+  the music scene of turn of the century Leipzig a cosmopolitan centre for the arts
+  drawing students from around the world; among them Maurice Guest a young Englishman
+  who falls helplessly in love with an Australian woman Louise Dufrayer.
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leipzig (Germany) -- Fiction'
+- !lcsh 'Australians -- Germany -- Fiction'
+- !lcsh 'Conservatories of music -- Fiction'
+- !lcsh 'Musical fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- GITenberg
+title: Maurice Guest
+url: http://www.gutenberg.org/ebooks/3727
